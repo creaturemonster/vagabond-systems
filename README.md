@@ -1,2 +1,2 @@
-# Task 2 Starter Repo
-Contains Everything you need to get started on task 2 of Forage's Wells Fargo software engineering program
+The Vagabond Project
+Using JPA to manage the financial advisor's client relationship data.
