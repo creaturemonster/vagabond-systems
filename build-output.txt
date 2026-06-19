@@ -1,0 +1,43 @@
+Picked up JAVA_TOOL_OPTIONS: -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.wellsfargo:counselor >----------------------
+[INFO] Building wells-fargo-task-2 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ counselor ---
+[INFO] Deleting C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\target
+[INFO] 
+[INFO] --- resources:3.3.0:resources (default-resources) @ counselor ---
+[INFO] skip non existing resourceDirectory C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\src\main\resources
+[INFO] skip non existing resourceDirectory C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.10.1:compile (default-compile) @ counselor ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\target\classes
+[INFO] 
+[INFO] --- resources:3.3.0:testResources (default-testResources) @ counselor ---
+[INFO] skip non existing resourceDirectory C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.10.1:testCompile (default-testCompile) @ counselor ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:2.22.2:test (default-test) @ counselor ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- jar:3.3.0:jar (default-jar) @ counselor ---
+[INFO] Building jar: C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\target\counselor-0.0.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- spring-boot:3.0.4:repackage (repackage) @ counselor ---
+[INFO] Replacing main artifact with repackaged archive
+[INFO] 
+[INFO] --- install:3.0.1:install (default-install) @ counselor ---
+[INFO] Installing C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\pom.xml to C:\Users\Jasna\.m2\repository\com\wellsfargo\counselor\0.0.1-SNAPSHOT\counselor-0.0.1-SNAPSHOT.pom
+[INFO] Installing C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\target\counselor-0.0.1-SNAPSHOT.jar to C:\Users\Jasna\.m2\repository\com\wellsfargo\counselor\0.0.1-SNAPSHOT\counselor-0.0.1-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.929 s
+[INFO] Finished at: 2026-06-19T09:59:16-04:00
+[INFO] ------------------------------------------------------------------------

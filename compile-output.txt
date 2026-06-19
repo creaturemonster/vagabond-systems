@@ -1,0 +1,24 @@
+Picked up JAVA_TOOL_OPTIONS: -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.wellsfargo:counselor >----------------------
+[INFO] Building wells-fargo-task-2 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ counselor ---
+[INFO] Deleting C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\target
+[INFO] 
+[INFO] --- resources:3.3.0:resources (default-resources) @ counselor ---
+[INFO] skip non existing resourceDirectory C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\src\main\resources
+[INFO] skip non existing resourceDirectory C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.10.1:compile (default-compile) @ counselor ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 5 source files to C:\Users\Jasna\wells-fargo-task-2\vagabond-systems\target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.598 s
+[INFO] Finished at: 2026-06-19T10:01:45-04:00
+[INFO] ------------------------------------------------------------------------
