@@ -1,2 +1,2 @@
 The Vagabond Project
-Using JPA to manage the financial advisor's client relationship data.
+This project uses JPA to manage the financial advisor's client relationship data.
